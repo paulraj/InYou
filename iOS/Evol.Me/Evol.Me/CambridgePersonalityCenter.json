@@ -1,0 +1,181 @@
+http://applymagicsauce.com/documentation.html
+
+http://findmyfbid.com/
+
+--------------------------------------------------------------------------------
+
+POST http://api-v2.applymagicsauce.com/auth
+
+Post Body:
+{"customer_id": 998, "api_key":"kh05tq7mn6aaaife3bhj8g958t" }
+
+Response:
+{"expires":1440346819231,"token":"afnmcdjqa8phvstm2grc1l5fsm"}
+
+
+---------------------------------------------------------------------------------
+
+POST http://api-v2.applymagicsauce.com/like_ids?traits=BIG5&uid=100002546054316
+
+Header:
+X-Auth-Token    afnmcdjqa8phvstm2grc1l5fsm
+Content-type    application/json
+Accept          application/json
+
+Post body:
+[146263172091383,148306605193993,177526890164,371925396178053,107229389416718,773296122681529,105596369475033,1445267509070902,156637341135531,272312349537386,324244264293462,8304333127,632773453400899,100484820802,126436680719285, 287654294578593, 216311481960,151603081553087,19292868552, 141830592497264, 165889914855, 6815841748, 272256069454439]
+
+
+Response:
+{
+    "predictions" : [
+                     {
+                     "trait" : "Intelligence",
+                     "value" : 0.4040209006538666
+                     },
+                     {
+                     "trait" : "Satisfaction_Life",
+                     "value" : 0.2756249815960117
+                     },
+                     {
+                     "trait" : "Religion_None",
+                     "value" : 0.3817329409535096
+                     },
+                     {
+                     "trait" : "Concentration_Journalism",
+                     "value" : 0.09464641166981104
+                     },
+                     {
+                     "trait" : "Concentration_Art",
+                     "value" : 0.1232923802278802
+                     },
+                     {
+                     "trait" : "Concentration_Biology",
+                     "value" : 0.0790099549342213
+                     },
+                     {
+                     "trait" : "Politics_Uninvolved",
+                     "value" : 0.08080779087567451
+                     },
+                     {
+                     "trait" : "Female",
+                     "value" : 0.2073672147590331
+                     },
+                     {
+                     "trait" : "Religion_Jewish",
+                     "value" : 0.02809731890740629
+                     },
+                     {
+                     "trait" : "Politics_Libertanian",
+                     "value" : 0.06888340093200009
+                     },
+                     {
+                     "trait" : "Concentration_Law",
+                     "value" : 0.06770161900879894
+                     },
+                     {
+                     "trait" : "BIG5_Openness",
+                     "value" : 0.5376302193988024
+                     },
+                     {
+                     "trait" : "BIG5_Extraversion",
+                     "value" : 0.3276410757005561
+                     },
+                     {
+                     "trait" : "Relationship_None",
+                     "value" : 0.5567563364181773
+                     },
+                     {
+                     "trait" : "Concentration_Nursing",
+                     "value" : 0.06949728949709653
+                     },
+                     {
+                     "trait" : "BIG5_Agreeableness",
+                     "value" : 0.3699623437337973
+                     },
+                     {
+                     "trait" : "Concentration_History",
+                     "value" : 0.06264232445724507
+                     },
+                     {
+                     "trait" : "Religion_Catholic",
+                     "value" : 0.2071591276086575
+                     },
+                     {
+                     "trait" : "BIG5_Conscientiousness",
+                     "value" : 0.4950301152908079
+                     },
+                     {
+                     "trait" : "Religion_Christian_Other",
+                     "value" : 0.3384245497057106
+                     },
+                     {
+                     "trait" : "Age",
+                     "value" : 26.95962654560381
+                     },
+                     {
+                     "trait" : "Relationship_Yes",
+                     "value" : 0.288123962414254
+                     },
+                     {
+                     "trait" : "Gay",
+                     "value" : 0.05007404235323003
+                     },
+                     {
+                     "trait" : "Concentration_Education",
+                     "value" : 0.06563714540696623
+                     },
+                     {
+                     "trait" : "Relationship_Married",
+                     "value" : 0.1551197011675687
+                     },
+                     {
+                     "trait" : "Lesbian",
+                     "value" : 0.03430337820665167
+                     },
+                     {
+                     "trait" : "Politics_Liberal",
+                     "value" : 0.6894250581945426
+                     },
+                     {
+                     "trait" : "Religion_Mormon",
+                     "value" : 0.01923612661118621
+                     },
+                     {
+                     "trait" : "Concentration_Business",
+                     "value" : 0.1173795573030148
+                     },
+                     {
+                     "trait" : "BIG5_Neuroticism",
+                     "value" : 0.3630599803671902
+                     },
+                     {
+                     "trait" : "Religion_Lutheran",
+                     "value" : 0.02534993621352987
+                     },
+                     {
+                     "trait" : "Concentration_Engineering",
+                     "value" : 0.09686846916190503
+                     },
+                     {
+                     "trait" : "Concentration_IT",
+                     "value" : 0.07596392572593658
+                     },
+                     {
+                     "trait" : "Concentration_Finance",
+                     "value" : 0.05354042801058573
+                     },
+                     {
+                     "trait" : "Politics_Conservative",
+                     "value" : 0.1608837499977828
+                     },
+                     {
+                     "trait" : "Concentration_Psychology",
+                     "value" : 0.09382049459653859
+                     }
+                     ],
+    "uid" : ""
+    
+}
+
+----

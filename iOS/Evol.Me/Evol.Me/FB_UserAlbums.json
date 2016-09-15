@@ -1,0 +1,74 @@
+{
+    data =     (
+                {
+                "can_upload" = 0;
+                count = 8;
+                "cover_photo" = 865371686891025;
+                "created_time" = "2011-07-09T04:54:52+0000";
+                from =             {
+                id = 882299955198198;
+                name = "Paul Raj";
+                };
+                id = 115416245219910;
+                likes =             {
+                data =                 (
+                                        {
+                                        id = 10153454540331514;
+                                        name = "Venkata Sagar Voonna";
+                                        },
+                                        {
+                                        id = 10153279207676273;
+                                        name = "Naveen Patibandla";
+                                        }
+                                        );
+                paging =                 {
+                cursors =                     {
+                after = "MTAxNTMyNzkyMDc2NzYyNzM=";
+                before = "MTAxNTM0NTQ1NDAzMzE1MTQ=";
+                };
+                };
+                };
+                link = "https://www.facebook.com/album.php?fbid=115416245219910&id=882299955198198&aid=22346";
+                name = "Profile Pictures";
+                privacy = everyone;
+                type = profile;
+                "updated_time" = "2015-05-26T09:14:27+0000";
+                },
+                {
+                "can_upload" = 0;
+                count = 1;
+                "cover_photo" = 712742272153968;
+                "created_time" = "2014-09-08T05:29:14+0000";
+                from =             {
+                id = 882299955198198;
+                name = "Paul Raj";
+                };
+                id = 712742338820628;
+                link = "https://www.facebook.com/album.php?fbid=712742338820628&id=882299955198198&aid=1073741829";
+                name = "Cover Photos";
+                privacy = everyone;
+                type = cover;
+                "updated_time" = "2014-09-08T05:29:15+0000";
+                },
+                {
+                "can_upload" = 0;
+                "created_time" = "2014-07-25T03:11:28+0000";
+                from =             {
+                id = 882299955198198;
+                name = "Paul Raj";
+                };
+                id = 688385274589668;
+                link = "https://www.facebook.com/album.php?fbid=688385274589668&id=882299955198198&aid=1073741827";
+                name = "iOS Photos";
+                privacy = everyone;
+                type = app;
+                "updated_time" = "2014-07-25T03:11:28+0000";
+                }
+                );
+    paging =     {
+        cursors =         {
+            after = Njg4Mzg1Mjc0NTg5NjY4;
+            before = MTE1NDE2MjQ1MjE5OTEw;
+        };
+    };
+}

@@ -1,0 +1,5 @@
+2015-03-12 -- v1.0.0
+- New sign-in focused SDK with refreshed API
+- Dynamically rendered sign-in button with contextual branding
+- Basic profile support
+- Added allowsSignInWithBrowser property

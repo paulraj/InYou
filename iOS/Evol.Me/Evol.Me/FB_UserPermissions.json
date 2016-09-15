@@ -1,0 +1,96 @@
+{
+    data =     (
+                {
+                permission = "user_birthday";
+                status = granted;
+                },
+                {
+                permission = "user_relationships";
+                status = granted;
+                },
+                {
+                permission = "user_hometown";
+                status = granted;
+                },
+                {
+                permission = "user_location";
+                status = granted;
+                },
+                {
+                permission = "user_likes";
+                status = granted;
+                },
+                {
+                permission = "user_education_history";
+                status = granted;
+                },
+                {
+                permission = "user_work_history";
+                status = granted;
+                },
+                {
+                permission = "user_groups";
+                status = granted;
+                },
+                {
+                permission = "user_managed_groups";
+                status = granted;
+                },
+                {
+                permission = "user_events";
+                status = granted;
+                },
+                {
+                permission = "user_photos";
+                status = granted;
+                },
+                {
+                permission = "user_videos";
+                status = granted;
+                },
+                {
+                permission = "user_friends";
+                status = granted;
+                },
+                {
+                permission = "user_status";
+                status = granted;
+                },
+                {
+                permission = "user_posts";
+                status = granted;
+                },
+                {
+                permission = "read_mailbox";
+                status = granted;
+                },
+                {
+                permission = email;
+                status = granted;
+                },
+                {
+                permission = "user_actions.books";
+                status = granted;
+                },
+                {
+                permission = "user_actions.music";
+                status = granted;
+                },
+                {
+                permission = "user_actions.video";
+                status = granted;
+                },
+                {
+                permission = "user_actions.news";
+                status = granted;
+                },
+                {
+                permission = "user_actions.fitness";
+                status = granted;
+                },
+                {
+                permission = "public_profile";
+                status = granted;
+                }
+                );
+}

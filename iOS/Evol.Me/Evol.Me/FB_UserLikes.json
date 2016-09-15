@@ -1,0 +1,179 @@
+{
+    data =     (
+                {
+                category = "Non-Profit Organization";
+                "created_time" = "2014-12-07T17:43:46+0000";
+                id = 146263172091383;
+                name = "Team Everest India";
+                },
+                {
+                category = "Non-Profit Organization";
+                "created_time" = "2014-11-13T06:08:57+0000";
+                id = 148306605193993;
+                name = "Blue Shield of California";
+                },
+                {
+                category = Politician;
+                "created_time" = "2014-10-20T04:11:51+0000";
+                id = 177526890164;
+                name = "Narendra Modi";
+                },
+                {
+                category = "Actor/Director";
+                "created_time" = "2014-10-03T09:16:24+0000";
+                id = 371925396178053;
+                name = "Kamal Haasan";
+                },
+                {
+                category = "Public Figure";
+                "created_time" = "2014-10-01T03:11:19+0000";
+                id = 107229389416718;
+                name = "Unofficial: Dr. Subramanian Swamy";
+                },
+                {
+                category = Community;
+                "created_time" = "2014-08-08T06:21:39+0000";
+                id = 773296122681529;
+                name = "St Josephs Cathedral Dindigul";
+                },
+                {
+                category = Company;
+                "category_list" =             (
+                                               {
+                                               id = 199512783398620;
+                                               name = "Computer Store";
+                                               }
+                                               );
+                "created_time" = "2014-07-26T22:39:44+0000";
+                id = 105596369475033;
+                name = "Apple Inc.";
+                },
+                {
+                category = "Public Figure";
+                "created_time" = "2014-07-17T23:47:34+0000";
+                id = 1445267509070902;
+                name = "Steve Wozniak";
+                },
+                {
+                category = "Public Figure";
+                "created_time" = "2014-01-02T05:56:03+0000";
+                id = 109577909059840;
+                name = "Steve Wozniak";
+                },
+                {
+                category = "Computers/Technology";
+                "created_time" = "2013-12-31T05:42:16+0000";
+                id = 156637341135531;
+                name = "AppScience, LLC";
+                },
+                {
+                category = Author;
+                "created_time" = "2013-12-18T23:43:49+0000";
+                id = 272312349537386;
+                name = "Ushna Kausar Sardar's Novels";
+                },
+                {
+                category = Organization;
+                "category_list" =             (
+                                               {
+                                               id = 198503866828628;
+                                               name = Organization;
+                                               }
+                                               );
+                "created_time" = "2013-11-17T14:59:55+0000";
+                id = 324244264293462;
+                name = LegalShield;
+                },
+                {
+                category = "Media/News/Publishing";
+                "category_list" =             (
+                                               {
+                                               id = 108366235907857;
+                                               name = Newspaper;
+                                               }
+                                               );
+                "created_time" = "2013-09-27T08:32:50+0000";
+                id = 8304333127;
+                name = "The Wall Street Journal";
+                },
+                {
+                category = Photographer;
+                "created_time" = "2013-07-05T22:52:01+0000";
+                id = 632773453400899;
+                name = "Praggy'z Lente Enfocar";
+                },
+                {
+                category = "Product/Service";
+                "created_time" = "2013-06-23T06:38:44+0000";
+                id = 100484820802;
+                name = iTunes;
+                },
+                {
+                category = Website;
+                "created_time" = "2013-06-16T14:19:21+0000";
+                id = 126436680719285;
+                name = redBus;
+                },
+                {
+                category = Author;
+                "created_time" = "2013-06-02T20:59:41+0000";
+                id = 287654294578593;
+                name = "Ushna Kausar Sardar Official";
+                },
+                {
+                category = "Public Figure";
+                "created_time" = "2013-05-31T01:59:20+0000";
+                id = 216311481960;
+                name = "Bill Gates";
+                },
+                {
+                category = Company;
+                "created_time" = "2013-05-06T22:53:18+0000";
+                id = 151603081553087;
+                name = "AT&T Developer Program";
+                },
+                {
+                category = "Product/Service";
+                "created_time" = "2013-03-29T21:52:54+0000";
+                id = 19292868552;
+                name = "Facebook Developers";
+                },
+                {
+                category = Organization;
+                "created_time" = "2013-03-12T03:55:50+0000";
+                id = 141830592497264;
+                name = Perficient;
+                },
+                {
+                category = "App Page";
+                "created_time" = "2013-03-04T06:08:09+0000";
+                id = 165889914855;
+                name = shopkick;
+                },
+                {
+                category = Politician;
+                "created_time" = "2013-02-03T04:05:37+0000";
+                id = 6815841748;
+                name = "Barack Obama";
+                },
+                {
+                category = Website;
+                "created_time" = "2012-09-25T15:37:08+0000";
+                id = 272256069454439;
+                name = Codecademy;
+                },
+                {
+                category = "News/Media Website";
+                "created_time" = "2012-03-04T14:58:10+0000";
+                id = 113615355316959;
+                name = "Wired UK";
+                }
+                );
+    paging =     {
+        cursors =         {
+            after = MTEzNjE1MzU1MzE2OTU5;
+            before = MTQ2MjYzMTcyMDkxMzgz;
+        };
+        next = "https://graph.facebook.com/v2.3/882299955198198/likes?access_token=CAAXHCwlETvsBAInCznrYLM8IYB45sSSCNG1huGHlFdtGkHSUT6IUJtPIBem8ovGYodkLyZBjhWQH5XAOnFmegufp4ifLrA99SBZAm81wbHCbZC3mlIPOyNv3xzZCXZAWuTeS88ZADIDnObDlcnU6L4uuZCyXtK6HnpvZCfzEIfCYLiEgY8QeiQ2Im1Rwy7txM5rUqDs2tYQZB110Gg5JQdfRSAPjeHiLhoQZCarLgSk7UzN7Q7ZAB8E4aOMDCie9601b9QZD&limit=25&after=MTEzNjE1MzU1MzE2OTU5";
+    };
+}

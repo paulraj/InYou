@@ -1,0 +1,43 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "47FD68886872390348F8E4477506FDAC12E9D6C4" : 0,
+    "D76924D87AEF0A1767BE3ACA609636C6A2528556" : 0,
+    "FA5854065B02C7C5F8100CBA9A27DE40AC0556B3" : 0,
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D333F106-854C-464F-84B6-945C3182DCD2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "47FD68886872390348F8E4477506FDAC12E9D6C4" : "MVPopupView\/",
+    "D76924D87AEF0A1767BE3ACA609636C6A2528556" : "..\/..\/..\/Users\/paulraj\/Documents\/NMPopUpView",
+    "FA5854065B02C7C5F8100CBA9A27DE40AC0556B3" : "SwiftColors\/",
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "Evol.Me\/Alamofire\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "InYou",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "InYou.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/devos50\/MVPopupView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "47FD68886872390348F8E4477506FDAC12E9D6C4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Alamofire\/Alamofire.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/psy2k\/NMPopUpView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D76924D87AEF0A1767BE3ACA609636C6A2528556"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thii\/SwiftColors.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FA5854065B02C7C5F8100CBA9A27DE40AC0556B3"
+    }
+  ]
+}

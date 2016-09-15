@@ -1,0 +1,64 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8CC9EEF04A512DA39939BB9799C06A8313B7D986" : 0,
+    "47FD68886872390348F8E4477506FDAC12E9D6C4" : 0,
+    "D76924D87AEF0A1767BE3ACA609636C6A2528556" : 0,
+    "FA5854065B02C7C5F8100CBA9A27DE40AC0556B3" : 0,
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 0,
+    "9025163822AAEA7A2D8AC9210D0874A56F62B462" : 0,
+    "72E8AEF8201D0465EAD5BE5475E77330EA7EC0CD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "75BBDEBB-12BA-4F80-AA8A-05C5E0D8B7DD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8CC9EEF04A512DA39939BB9799C06A8313B7D986" : "JTChartView\/",
+    "47FD68886872390348F8E4477506FDAC12E9D6C4" : "MVPopupView\/",
+    "D76924D87AEF0A1767BE3ACA609636C6A2528556" : "NMPopUpView\/",
+    "FA5854065B02C7C5F8100CBA9A27DE40AC0556B3" : "SwiftColors\/",
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "Evol.Me\/Alamofire\/",
+    "9025163822AAEA7A2D8AC9210D0874A56F62B462" : "ios-charts\/",
+    "72E8AEF8201D0465EAD5BE5475E77330EA7EC0CD" : "Swifter\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Evol.Me",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Evol.Me.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/devos50\/MVPopupView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "47FD68886872390348F8E4477506FDAC12E9D6C4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Alamofire\/Alamofire.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mattdonnelly\/Swifter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "72E8AEF8201D0465EAD5BE5475E77330EA7EC0CD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kubatru\/JTChartView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8CC9EEF04A512DA39939BB9799C06A8313B7D986"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/danielgindi\/ios-charts.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9025163822AAEA7A2D8AC9210D0874A56F62B462"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/psy2k\/NMPopUpView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D76924D87AEF0A1767BE3ACA609636C6A2528556"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thii\/SwiftColors.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FA5854065B02C7C5F8100CBA9A27DE40AC0556B3"
+    }
+  ]
+}

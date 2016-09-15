@@ -1,0 +1,464 @@
+ [
+  {
+  "description" : "The Core Assessment measures overall elements of an individual’s personality, assessing a full range of characterological components in order to gain an overall picture of a person.  The personality information derived from this assessment can be used to gain a general understanding of the user’s personality, or to match individual’s with other people.",
+  "id" : "core",
+  "name" : "Core",
+  "example_usage" : "",
+  "slide_count" : 49,
+  "personality_group" : "Core",
+  "badges" : [
+              {
+              "description" : "Adventurous types are high-energy, independent and physical people. From traversing the natural and business worlds to physical challenges, “action-oriented” captures their boundless energy to tackle the next mountain. Determined and competitive, they are goal-oriented and don’t shy away from ambitious plans.  They feel rejuvenated and recharged after challenging themselves with a thrilling and often daring goal.  They value autonomy and are known for their passion for their pursuits.",
+              "personality_type" : "Adventurous",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/adventurous\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/adventurous\/flat\/small",
+              "color_3" : "91c61e",
+              "color_2" : "bae868",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/adventurous\/flat\/large",
+              "color_1" : "c3f476",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "Charismatic types are born social leaders, full of energy and charisma.  Filled with natural exuberance and always ready with an animated story, their energy is contagious and they tend to draw an audience. They are often night owls and the life of the party.  In fact, they feel rejuvenated and recharged when socializing, so the bigger the crowd, the better.  Driven by sharing their energy and enthusiasm with others, Charismatics are prime candidates for leadership roles in their chosen professions.  ",
+              "personality_type" : "Charismatic",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/charismatic\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/charismatic\/flat\/small",
+              "color_3" : "d85e0b",
+              "color_2" : "f99c69",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/charismatic\/flat\/large",
+              "color_1" : "fca56b",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "Mellow types are free spirits, who march to the beat of their own drummer. These casual types value taking a slower pace through life.  Not bound by custom or convention, they could care less about popular trends and fads and, instead, feel free to creatively approach all they do.  Others are drawn to their uniqueness, free spirit and artistic nature.  Those who are Mellow enjoy spending time with others, yet recharge when alone and engrossed in a creative project.  With their slower, laid back approach to life, they are driven by creativity and their desire not be constrained by any social standard.",
+              "personality_type" : "Mellow",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/mellow\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/mellow\/flat\/small",
+              "color_3" : "02c45f",
+              "color_2" : "5af29b",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/mellow\/flat\/large",
+              "color_1" : "70fcaf",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "Rational types are thought-driven and interested in the world.  They are lifelong students intrigued by ideas, from work to books to world events. They look beyond the surface for deeper meaning and do not take anything at face value.  Always up for a hearty and heady debate, they enjoy time with others one on one or in small groups.  Rational types are natural problem solvers, especially when they can analyze all the information, and they are deliberate, thinking before they act.  Serious and reserved in nature, they feel rejuvenated after quiet time spent alone, perhaps reading or contemplating a problem and researching a solution.  They are driven by their intellect.",
+              "personality_type" : "Rational",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/rational\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/rational\/flat\/small",
+              "color_3" : "0598d8",
+              "color_2" : "1bc5ed",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/rational\/flat\/large",
+              "color_1" : "25d3ef",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "Reliable types are fundamentally consistent and dependable in nature.  They are always on time, organized and efficient, and pay close attention to detail.  They enjoy spending time with others and are happy to help keep things organized, but they prefer someone else take the lead.  Reliable types are content to follow a plan and follow the rules.  Others notice how “together” they are and often seek their helping solving problems, especially drawing on their talent for working with words and numbers.  They feel recharged when life goes according to plan, and their routine is in tact.  They have high standards for themselves, and meet them.",
+              "personality_type" : "Reliable",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/reliable\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/reliable\/flat\/small",
+              "color_3" : "dbc628",
+              "color_2" : "eddb3b",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/reliable\/flat\/large",
+              "color_1" : "f4e847",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "Social types are well-rounded, practical people.  They approach everyday life without unnecessary drama, and seem unburdened by a full and busy schedule.  From tailgating to dinner parties, they are comfortable with others, and admired for their gregarious nature.  They are consistent, friendly and down to earth, no matter what the situation.  Social types work hard to avoid the disruption of conflict with others and recharge after a busy, uncomplicated day spent with friends.  They love to follow popular trends and fads and desire to enjoy life, without complicating it.",
+              "personality_type" : "Social",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/social\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/social\/flat\/small",
+              "color_3" : "ed5858",
+              "color_2" : "f78181",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/social\/flat\/large",
+              "color_1" : "f98f8f",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "Thoughtful types are compassionate, self aware and reflective people.  Natural helpers, they enjoy being around others and get a sense of satisfaction from lending a hand, in their personal and professional lives.  They are sensitive to their own needs and the needs of others.  Team players by nature, they often prefer one-on-one encounters to socializing in a big crowd.  They recharge with meaningful conversation with close confidants and have a special talent for nurturing and sustaining relationships.",
+              "personality_type" : "Thoughtful",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/thoughtful\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/thoughtful\/flat\/small",
+              "color_3" : "5e51e0",
+              "color_2" : "9788f2",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/core\/thoughtful\/flat\/large",
+              "color_1" : "ab97fc",
+              "font_color" : "fff"
+              }
+              ],
+  "validated" : false
+  },
+  {
+  "description" : "Working on recommendations engines or other projects that match individual tastes to products or services? Our Heroes deck allows developers to make recommendations based on science, not assumptions. Retrieve personality blends, types, traits and matching in just minutes. Segment users into distinct audiences to customize messaging, experience, offerings and more.",
+  "id" : "super-hero",
+  "name" : "Heroes",
+  "example_usage" : "",
+  "slide_count" : 56,
+  "personality_group" : "Super Hero",
+  "badges" : [
+              {
+              "description" : "The Berserker is a hero who uses a combination of high energy and an extreme attitude to be unbeatable in any fight. Berserkers are imposing to their foes, both in their physical might and their impulsive, unpredictable nature. When it comes to a cause about which they are passionate, know  that the Berserker will unleash their inner strength and fight to the very end. ",
+              "personality_type" : "Berserker",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/berserker\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/berserker\/flat\/small",
+              "color_3" : "ea750a",
+              "color_2" : "ff9022",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/berserker\/flat\/large",
+              "color_1" : "f9a458",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "The Detective is a hero focused on uncovering every detail in the pursuit of justice.  Possessing naturally inquisitive minds, Detectives are vigilant and meticulous as they uncover devious plots and schemes. They see themselves as making the sacrifices others won't, even if it means having little time for those who do not share their goal of a crime free world.",
+              "personality_type" : "Detective",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/detective\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/detective\/flat\/small",
+              "color_3" : "e5ab05",
+              "color_2" : "ffc522",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/detective\/flat\/large",
+              "color_1" : "fcd163",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "The Innovator is a hero who finds new and groundbreaking solutions with which to combat foes. They have a knack for using gadgets to fight their way out of impossible situations, and as criminals keep getting smarter, the Innovator strives to keep finding new ways to foil their devious plots.  No matter what challenges stand in their path, Innovators are sure to persevere with a sense of enthusiasm and creativity.",
+              "personality_type" : "Innovator",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/innovator\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/innovator\/flat\/small",
+              "color_3" : "00accf",
+              "color_2" : "1dd7ef",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/innovator\/flat\/large",
+              "color_1" : "5deef9",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "The Intellectual is a hero who relies on brain over brawn. Rational and intellectually driven,  they are cognitive of all elements of battle and use their superior minds to overcome the forces that oppose them. Practical and reserved, they prefer to spend their time growing in knowledge and using it for the betterment of the world, and to defeat any adversary who claims intellectual superiority.",
+              "personality_type" : "Intellectual",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/intellectual\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/intellectual\/flat\/small",
+              "color_3" : "5b21ad",
+              "color_2" : "7939c4",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/intellectual\/flat\/large",
+              "color_1" : "8954d3",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "Lonewolves are heroes who are independent from the crowd.  They prefer to go their own way unless a team is needed to accomplish a goal. Introspective and serious, they use their powers in daring acts of heroism but refuse to take the spotlight for themselves. Despite a hard exterior, those few who get to know the Lonewolf will find a sensitive and self-aware soul who is up to any challenge.",
+              "personality_type" : "Lonewolf",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/lonewolf\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/lonewolf\/flat\/small",
+              "color_3" : "099341",
+              "color_2" : "20b75d",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/lonewolf\/flat\/large",
+              "color_1" : "38ce74",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "The Noble is a hero who is stable and reliable, ready to save the day no matter what the circumstances. Unbending in their belief that good should triumph over evil, this unbreakable conviction allows them to face down even the deadliest of enemies and emerge unscathed.  Nobles are caring and empathic, never willing to turn their back on those in need.",
+              "personality_type" : "Noble",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/noble\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/noble\/flat\/small",
+              "color_3" : "0861b2",
+              "color_2" : "1977dd",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/noble\/flat\/large",
+              "color_1" : "3090e5",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "The Team Player is a hero who bonds the team together with a playful, outgoing nature.  Quick to aid in a fight, Team Players keep it casual and light-hearted, even when the fate of the world hangs in the balance. They not only prefer to work with a team but develop strong attachments to their teammates. Team Players will fight loyally, facing any obstacle that comes their way.",
+              "personality_type" : "Team Player",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/team-player\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/team-player\/flat\/small",
+              "color_3" : "bc1919",
+              "color_2" : "d02424",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/super-hero\/team-player\/flat\/large",
+              "color_1" : "e53838",
+              "font_color" : "fff"
+              }
+              ],
+  "validated" : false
+  },
+  {
+  "description" : "The Introversion\/Extroversion Deck measures social style, and a user’s proclivity to be an introvert or an extrovert.  This is a key feature of understanding the needs and preferences of user’s and is an important element of personality.  This information can be combined with other personality data in order to drill down into an important element of understanding personality.",
+  "id" : "introvert-extrovert",
+  "name" : "Introvert \/ Extrovert",
+  "example_usage" : "",
+  "slide_count" : 16,
+  "personality_group" : "Introversion\/Extroversion",
+  "badges" : [
+              {
+              "description" : "Extroverts rejuvenate, recharge and replenish themselves through social interactions. They enjoy other people and group activities which they find exciting, stimulating and energizing. As long as others are involved, extroverts are ready to participate, often on the spur of the moment, and they are loathe leave the momentum created by the group. To the extrovert, silence feels empty, and solitary activities may seem lonely and tedious. The extrovert’s strength is his ability to navigate the world of people, in work and play.",
+              "personality_type" : "Extrovert",
+              "image_medium" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/medium",
+              "image_small" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/small",
+              "color_3" : "6d6e70",
+              "color_2" : "bbbdbf",
+              "image_large" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/large",
+              "color_1" : "d0d2d3",
+              "font_color" : "ffffff"
+              },
+              {
+              "description" : " Introverts enjoy their time alone to rejuvenate, recharge and refresh their inner equilibrium. Rather than looking outside of themselves to others, for stimulation and excitement, introverts look inside themselves, choosing solitary activities as a counterbalance to their social lives. To the introvert, the sound of quiet feels peaceful and soothing. Introverts enjoy the company of others, often preferring intimate gatherings to large groups. The strength of the introvert is knowing their limits, and finding a balance between solitary and social.",
+              "personality_type" : "Introvert",
+              "image_medium" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/medium",
+              "image_small" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/small",
+              "color_3" : "6d6e70",
+              "color_2" : "bbbdbf",
+              "image_large" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/large",
+              "color_1" : "d0d2d3",
+              "font_color" : "ffffff"
+              }
+              ],
+  "validated" : false
+  },
+  {
+  "description" : "The Movie Deck measures elements of an individual’s personality with a fun spin towards movie preference.  There are seven distinct types of movie personalities, each capturing elements of the user, including his\/her preferences and interests.  The personality information derived from this assessment can be used for the purpose of entertainment recommendations as well as a general understanding of the user’s personality.",
+  "id" : "movies",
+  "name" : "Movies",
+  "example_usage" : "",
+  "slide_count" : 42,
+  "personality_group" : "Movies",
+  "badges" : [
+              {
+              "description" : "You are ready for an escape into another world. Or time. Or dimension.  Luckily, Fantasy and Science Fiction movies are chock-full of all of these options!  With your imaginative and light-hearted spirit, you are ready to devote yourself to a fantastical story and totally let go of the harsh realities of today's world.  So grab your magic wand, hop onto a spacecraft or drop yourself into a wormhole--your movie is waiting for you!\r\n",
+              "personality_type" : "Believer",
+              "image_medium" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/medium",
+              "image_small" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/small",
+              "color_3" : "6d6e70",
+              "color_2" : "bbbdbf",
+              "image_large" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/large",
+              "color_1" : "d0d2d3",
+              "font_color" : "ffffff"
+              },
+              {
+              "description" : "You're a natural people watcher and someone who enjoys realistic situations for entertainment. You're someone who likes to empathize and relate with the characters you're watching, which also makes you a great friend in your day to day life. Call someone special in your life and make a plan to check out the latest plot-driven drama feature. Hey, make a night of it! Nothing is a better follow-up to a movie than some pie and great conversation!\r\n",
+              "personality_type" : "Drama",
+              "image_medium" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/medium",
+              "image_small" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/small",
+              "color_3" : "6d6e70",
+              "color_2" : "bbbdbf",
+              "image_large" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/large",
+              "color_1" : "d0d2d3",
+              "font_color" : "ffffff"
+              },
+              {
+              "description" : "Independent filmmaking is alive and well thanks to outside the box thinkers like you! You appreciate getting the chance to see the full artistic vision of the director without major studios being involved and leaving meaningful scenes on the cutting room floor. Being the artistic type like you, it intrigues you to see what people can do using a 'more with less' approach to their filming. There are countless movies of this caliber available to you. Swing by your local theater, support the independent film industry, and experience art in motion!\r\n",
+              "personality_type" : "Indie",
+              "image_medium" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/medium",
+              "image_small" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/small",
+              "color_3" : "6d6e70",
+              "color_2" : "bbbdbf",
+              "image_large" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/large",
+              "color_1" : "d0d2d3",
+              "font_color" : "ffffff"
+              },
+              {
+              "description" : "You are someone who wants your entertainment and wants it now! \"Surely, you can't be serious?\" you might say. Well, we are serious, and don't call us Shirley. It appears that you're in the mood to laugh and see something relatively easy and fun. Now it's just a matter of deciding what kind of comedy you want to see. Try one of our suggestions, then call everyone for an awesome LOL experience!\r\n",
+              "personality_type" : "Laughaholic",
+              "image_medium" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/medium",
+              "image_small" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/small",
+              "color_3" : "6d6e70",
+              "color_2" : "bbbdbf",
+              "image_large" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/large",
+              "color_1" : "d0d2d3",
+              "font_color" : "ffffff"
+              },
+              {
+              "description" : "You are in need of a cinematic thriller tonight--something only demons, zombies, axe-murderers, psychos, beasts, blood, guts, and terror can offer! A horror movie will be perfect for tonight and is one of the most enjoyable theatre experiences. When it's a packed house, you and everyone in the audience scream, gasp, and laugh as one. Time to make plans to see the latest thriller and get scared out of your seat!\r\n",
+              "personality_type" : "Nail Biter",
+              "image_medium" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/medium",
+              "image_small" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/small",
+              "color_3" : "6d6e70",
+              "color_2" : "bbbdbf",
+              "image_large" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/large",
+              "color_1" : "d0d2d3",
+              "font_color" : "ffffff"
+              },
+              {
+              "description" : "You have a whimsical mind and a full heart. Cinema regularly touches on relationships, love, and loss because it's something we can all relate to and pulls on our heartstrings the hardest. Every now and then, you need to be reminded of how it feels to act with your heart. Even if you're no sap, there's a hopeless romantic in all of us that dreams of a dance in the moonlight with their soulmate. Whether it be a \"You had me at hello\" or a \"Here's lookin' at you, kid,\" you're in the mood for love, and it's out there waiting for you.\r\n",
+              "personality_type" : "Romantic",
+              "image_medium" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/medium",
+              "image_small" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/small",
+              "color_3" : "6d6e70",
+              "color_2" : "bbbdbf",
+              "image_large" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/large",
+              "color_1" : "d0d2d3",
+              "font_color" : "ffffff"
+              },
+              {
+              "description" : "Oh, you're ready for an adrenaline rush! It's time to catch an action-packed, explosive, big-budget film to satisfy a high-energy person like you! With the resurgence of superhero movies and fantasy epics, there's never a shortage of great battles, heroes, villains, amazing sets, and unbelievable, fast-paced storylines. Assemble your team and get fired up to see the hottest action film going!\r\n",
+              "personality_type" : "Stunt Double",
+              "image_medium" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/medium",
+              "image_small" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/small",
+              "color_3" : "6d6e70",
+              "color_2" : "bbbdbf",
+              "image_large" : "https:\/\/s3.amazonaws.com\/traitify-api\/badges\/no-image-available\/large",
+              "color_1" : "d0d2d3",
+              "font_color" : "ffffff"
+              }
+              ],
+  "validated" : false
+  },
+  {
+  "description" : "Personalize work-related sites and applications with Traitify’s Careers Assessment. The Careers deck offers developers rich data points including personality blend, types, traits and matching. Built for users including students, job-seekers, teams, human resources and leadership, Careers data can be used to enrich experiences, drive engagement and build more productive teams and work spaces.",
+  "id" : "career-deck",
+  "name" : "Careers",
+  "example_usage" : "",
+  "slide_count" : 56,
+  "personality_group" : "Careers II",
+  "badges" : [
+              {
+              "description" : "'Action-Takers'...are hands-on doers.  They use manual and physical skills, working with technology or machinery to complete tasks.  Often there is an athletic aspect to their work.  They are handy, practical, systematic, applied, and 'down-to-earth.'  They are drawn to jobs that involve a specific skill-set and a concrete task.  They excel at solitary, goal-oriented work and 'getting the job done.'",
+              "personality_type" : "Action-Taker",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/action-taker\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/action-taker\/flat\/small",
+              "color_3" : "ea813b",
+              "color_2" : "f79b5c",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/action-taker\/flat\/large",
+              "color_1" : "ffa466",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "'Analyzers'...are inquisitive.  They delve, study and look deeply for information.  They have a keen eye and an experimental nature.  Analyzers use these capacities to figure out problems and search for the facts, often in a laboratory environment.  They excel at going beyond the surface toward uncovering information and discovery.",
+              "personality_type" : "Analyzer",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/analyzer\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/analyzer\/flat\/small",
+              "color_3" : "1761ba",
+              "color_2" : "6ea1ea",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/analyzer\/flat\/large",
+              "color_1" : "81abf7",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "'Inventors'...are creative.  They take a contemporary, 'out of the box' approach to work and life. Inventors use themselves and other medium, often various forms of the arts, to communicate and interact with the world.  Inventors excel when they are 'lost' in their work, completely engrossed in a project.",
+              "personality_type" : "Inventor",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/inventor\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/inventor\/flat\/small",
+              "color_3" : "26c6a7",
+              "color_2" : "07c9a4",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/inventor\/flat\/large",
+              "color_1" : "07c9a4",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "'Mentors'...are people-oriented.  They have great communication skills and are most fulfilled when assisting or working directly with others to improve a personal or societal situation. Mentors are patient and compassionate and work best in a group or on a team with a common goal. Mentors excel at working with others to help them learn and grow.",
+              "personality_type" : "Mentor",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/mentor\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/mentor\/flat\/small",
+              "color_3" : "e24747",
+              "color_2" : "ea6c6c",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/mentor\/flat\/large",
+              "color_1" : "f47171",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "'Naturalists'...are attached to the natural world, frequently working with plants and animals in their  environment.  Often nature lovers, they like to experience the world outdoors.  They are committed to preserving and protecting the planet and its natural resources. Serene, earthy, efficient and solid, they excel at working as one with the natural environment.",
+              "personality_type" : "Naturalist",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/naturalist\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/naturalist\/flat\/small",
+              "color_3" : "317239",
+              "color_2" : "5bc467",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/naturalist\/flat\/large",
+              "color_1" : "6ad379",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "'Planners'...are the detail people.  They are methodical, precise, and detail-oriented.  Planners create systems to follow, and enjoy working with data, detail, words and numbers.  Great at manipulating data, they love procedure and routine.  Often found in office settings, they excel at completing detailed work in an organized manner.",
+              "personality_type" : "Planner",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/planner\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/planner\/flat\/small",
+              "color_3" : "f7d719",
+              "color_2" : "e9c704",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/planner\/flat\/large",
+              "color_1" : "e9c704",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "'Visionaries'...are pioneers.  They are great convincers and like to work with others in a 'take charge' capacity.  They love to take risks, make changes and set trends.  They tend to be   ambitious and energetic.  Visionaries are often in positions of prominence in business and the public eye and excel at taking charge and gaining the confidence of others.",
+              "personality_type" : "Visionary",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/visionary\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/visionary\/flat\/small",
+              "color_3" : "5322a0",
+              "color_2" : "ac70e5",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/careers-ii\/visionary\/flat\/large",
+              "color_1" : "bc7def",
+              "font_color" : "fff"
+              }
+              ],
+  "validated" : true
+  },
+  {
+  "description" : "Uncover distinct leadership styles with the Persuasion Assessment. The Persuasion Deck tells you where users derive their powers of persuasion and what types of followers they naturally attract. Seek out best-fit leaders and be wary of aggressive, devouring influencers. With the Persuasion Deck, you can gauge individual styles of persuasion to ensure compatibility between leaders and supporters.",
+  "id" : "persuasion",
+  "name" : "Persuasion",
+  "example_usage" : "",
+  "slide_count" : 42,
+  "personality_group" : "Persuasion",
+  "badges" : [
+              {
+              "description" : "Popular and idealized, The Celebrity’s power is derived from the adoring masses.  The Celebrity  attracts those who are drawn to superstar status and who like to live vicariously through icons and heroes.  ",
+              "personality_type" : "Celebrity",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/celebrity\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/celebrity\/flat\/small",
+              "color_3" : "ffe137",
+              "color_2" : "f48c37",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/celebrity\/flat\/large",
+              "color_1" : "cd92f7",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "A people-person who connects deeply with others, the Charmer’s power is derived from   the capacity for and strength of relationships.  The Charmer is attuned to the emotional needs of others and can draw people in like flies to honey. ",
+              "personality_type" : "Charmer",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/charmer\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/charmer\/flat\/small",
+              "color_3" : "ffe137",
+              "color_2" : "f48c37",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/charmer\/flat\/large",
+              "color_1" : "ffe843",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "Savvy and confident, the Closer’s power is derived from profound manipulative skill in negotiating with others, especially those who seek power and success, and are fearful of being left behind.  The Closer  works with people who have vision and are upwardly mobile and on the same path to prosperity and fortune.  ",
+              "personality_type" : "Closer",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/closer\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/closer\/flat\/small",
+              "color_3" : "ffe137",
+              "color_2" : "f48c37",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/closer\/flat\/large",
+              "color_1" : "1e094d",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "Charismatic and spiritual, the Evangelist’s power is derived from engendering hope and fear in the flock of followers.  The Evangelist recruits and attracts those who are desperate and seeking direction, guidance or rescue. ",
+              "personality_type" : "Evangelist",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/evangelist\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/evangelist\/flat\/small",
+              "color_3" : "ffe137",
+              "color_2" : "f48c37",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/evangelist\/flat\/large",
+              "color_1" : "20e5e5",
+              "font_color" : "fff"
+              },
+              {
+              "description" : "Ambitious and diplomatic, the Politician’s power is derived from institutional authority.  Feeling free to follow the laws (or not)  for personal advantage, the Politician is highly effective with law-abiding citizens who look to authorities for guidance.",
+              "personality_type" : "Politician",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/politician\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/politician\/flat\/small",
+              "color_3" : "90a4ae",
+              "color_2" : "90a4ae",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/politician\/flat\/large",
+              "color_1" : "90a4ae",
+              "font_color" : "fffff9"
+              },
+              {
+              "description" : "Biting and aggressive, The Shark’s power is derived from  ruthlessness.  Consuming and devouring anything or anyone who gets in the way, the Shark remains focused on the prey.  Where there is a shark, there is danger. ",
+              "personality_type" : "Shark",
+              "image_medium" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/shark\/flat\/medium",
+              "image_small" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/shark\/flat\/small",
+              "color_3" : "ffe137",
+              "color_2" : "f48c37",
+              "image_large" : "https:\/\/traitify-api.s3.amazonaws.com\/badges\/persuasion\/shark\/flat\/large",
+              "color_1" : "0289a8",
+              "font_color" : "fff"
+              }
+              ],
+  "validated" : false
+  }
+  ]

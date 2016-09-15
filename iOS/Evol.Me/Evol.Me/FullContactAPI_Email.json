@@ -1,0 +1,212 @@
+{
+    contactInfo =     {
+        familyName = Wodtke;
+        fullName = "Christina Wodtke";
+        givenName = Christina;
+        websites =         (
+                            {
+                            url = "http://boxesandarrows.com";
+                            },
+                            {
+                            url = "http://www.eleganthack.com";
+                            }
+                            );
+    };
+    demographics =     {
+        gender = Female;
+        locationDeduced =         {
+            city =             {
+                deduced = 0;
+                name = "San Jose";
+            };
+            continent =             {
+                deduced = 1;
+                name = "North America";
+            };
+            country =             {
+                code = US;
+                deduced = 1;
+                name = "United States";
+            };
+            county =             {
+                code = "Santa Clara";
+                deduced = 1;
+                name = "Santa Clara";
+            };
+            deducedLocation = "San Jose, California, United States";
+            likelihood = 1;
+            normalizedLocation = "San Jose, California";
+            state =             {
+                code = CA;
+                deduced = 0;
+                name = California;
+            };
+        };
+        locationGeneral = "San Jose, CA";
+    };
+    likelihood = "0.88";
+    organizations =     (
+                         {
+                         current = 1;
+                         isPrimary = 1;
+                         name = "Wodtke Consulting";
+                         startDate = 2001;
+                         title = Owner;
+                         }
+                         );
+    photos =     (
+                  {
+                  isPrimary = 1;
+                  type = facebook;
+                  typeId = facebook;
+                  typeName = Facebook;
+                  url = "https://d2ojpxxtu63wzl.cloudfront.net/static/d4aa257897771ff5814d4c9a9a766ef2_54696f9d3e2c3b0012f496ed10384bab58a95bb3ed96f8b30793c1061dde6046";
+                  },
+                  {
+                  isPrimary = 0;
+                  type = gravatar;
+                  typeId = gravatar;
+                  typeName = Gravatar;
+                  url = "https://d2ojpxxtu63wzl.cloudfront.net/static/a9d4749f81d4cefa484a8cce9eef5ef1_daa05629be4af93156affebddaebe819857807e4988c704f42286539f7617781";
+                  },
+                  {
+                  isPrimary = 0;
+                  type = linkedin;
+                  typeId = linkedin;
+                  typeName = LinkedIn;
+                  url = "https://d2ojpxxtu63wzl.cloudfront.net/static/2c51b099efdee700d67f84f6347063ff_37a88b5674d4d4abcce1b1df855bd601f1785c17775492f62d0e720123d9bd80";
+                  },
+                  {
+                  isPrimary = 0;
+                  type = foursquare;
+                  typeId = foursquare;
+                  typeName = Foursquare;
+                  url = "https://d2ojpxxtu63wzl.cloudfront.net/static/7e442d9c5e250595dae2e0554677a3fe_341e9afdfd540ce21be3df40b6acd91ce08cc6947fbefc21567aad6740ddc09c";
+                  },
+                  {
+                  isPrimary = 0;
+                  type = twitter;
+                  typeId = twitter;
+                  typeName = Twitter;
+                  url = "https://d2ojpxxtu63wzl.cloudfront.net/static/f07676a3daa2f80cdc7ff4f48b2f936b_4561c6b2226f025ffc8bff4b0e52c07a1c5eda7dc0a2d4c2e22dab60434de666";
+                  },
+                  {
+                  isPrimary = 0;
+                  type = googleplus;
+                  typeId = googleplus;
+                  typeName = GooglePlus;
+                  url = "https://d2ojpxxtu63wzl.cloudfront.net/static/0b6cb3df0b3d85cf00b4efec42bfc6c5_f6b011d4a590699f194b397002158bd6c06ba9eede81d8297cb181cdbd481679";
+                  },
+                  {
+                  isPrimary = 0;
+                  type = pinterest;
+                  typeId = pinterest;
+                  typeName = Pinterest;
+                  url = "https://d2ojpxxtu63wzl.cloudfront.net/static/91e116307252a98e7910cf3c84e68474_213947ef6c580b9811868c85f402a6c017dc17d6a575cc0029bdcf82ad5ded03";
+                  }
+                  );
+    requestId = "98e8ca2a-5a0e-473e-b6b9-b7d82607cdbe";
+    socialProfiles =     (
+                          {
+                          bio = "Curious Human";
+                          type = linkedin;
+                          typeId = linkedin;
+                          typeName = LinkedIn;
+                          url = "https://www.linkedin.com/in/christinawodtke";
+                          username = christinawodtke;
+                          },
+                          {
+                          id = 2314513;
+                          type = gravatar;
+                          typeId = gravatar;
+                          typeName = Gravatar;
+                          url = "https://gravatar.com/cwodtke";
+                          username = cwodtke;
+                          },
+                          {
+                          id = 130292;
+                          type = foursquare;
+                          typeId = foursquare;
+                          typeName = Foursquare;
+                          url = "https://foursquare.com/user/130292";
+                          },
+                          {
+                          bio = "Do I contradict myself? Very well, then I contradict myself, I am large, I contain multitudes.
+                          \n~Walt Whitman";
+                          followers = 8222;
+                          following = 1450;
+                          id = 1763261;
+                          type = twitter;
+                          typeId = twitter;
+                          typeName = Twitter;
+                          url = "https://twitter.com/cwodtke";
+                          username = cwodtke;
+                          },
+                          {
+                          id = 109671;
+                          type = vimeo;
+                          typeId = vimeo;
+                          typeName = Vimeo;
+                          url = "http://vimeo.com/cwodtke";
+                          username = cwodtke;
+                          },
+                          {
+                          type = quora;
+                          typeId = quora;
+                          typeName = Quora;
+                          url = "http://www.quora.com/christina-wodtke";
+                          username = "christina-wodtke";
+                          },
+                          {
+                          type = pinterest;
+                          typeId = pinterest;
+                          typeName = Pinterest;
+                          url = "http://www.pinterest.com/cwodtke/";
+                          username = cwodtke;
+                          },
+                          {
+                          id = 72057600128063647;
+                          type = klout;
+                          typeId = klout;
+                          typeName = Klout;
+                          url = "http://klout.com/user/id/72057600128063647";
+                          },
+                          {
+                          id = 716290205;
+                          type = facebook;
+                          typeId = facebook;
+                          typeName = Facebook;
+                          url = "https://www.facebook.com/cwodtke";
+                          username = cwodtke;
+                          },
+                          {
+                          type = aboutme;
+                          typeId = aboutme;
+                          typeName = "About.me";
+                          url = "https://about.me/cwodtke";
+                          username = cwodtke;
+                          },
+                          {
+                          bio = "\U201cI have three rules to live by: Get your work done. If that doesn't work, shut up and drink your gin, and when all else fails, run like hell.\U201d \n\U2015 Ray Bradbury";
+                          followers = 267;
+                          following = 0;
+                          id = 163659;
+                          type = angellist;
+                          typeId = angellist;
+                          typeName = AngelList;
+                          url = "https://angel.co/cwodtke";
+                          username = cwodtke;
+                          },
+                          {
+                          bio = "Do I contradict myself? Very well, then I contradict myself, I am large, I contain multitudes. ~Walt Whitman\U00b7 http://www.eleganthack.com";
+                          id = 103071881887977889084;
+                          type = googleplus;
+                          typeId = googleplus;
+                          typeName = GooglePlus;
+                          url = "https://plus.google.com/u/0/+christinawodtke";
+                          username = christinawodtke;
+                          }
+                          );
+    status = 200;
+    
+}

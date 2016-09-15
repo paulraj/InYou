@@ -1,0 +1,57 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FA5854065B02C7C5F8100CBA9A27DE40AC0556B3" : 0,
+    "72E8AEF8201D0465EAD5BE5475E77330EA7EC0CD" : 0,
+    "47FD68886872390348F8E4477506FDAC12E9D6C4" : 0,
+    "D76924D87AEF0A1767BE3ACA609636C6A2528556" : 0,
+    "46FB3AB8F8ECEC2FE3052E1BB95CA59D9E5F2148" : 0,
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "522D0D24-6254-4EBD-8EB9-8CB51C1D1DA9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FA5854065B02C7C5F8100CBA9A27DE40AC0556B3" : "SwiftColors\/",
+    "72E8AEF8201D0465EAD5BE5475E77330EA7EC0CD" : "Swifter\/",
+    "47FD68886872390348F8E4477506FDAC12E9D6C4" : "MVPopupView\/",
+    "D76924D87AEF0A1767BE3ACA609636C6A2528556" : "..\/..\/..\/Users\/paulraj\/Documents\/NMPopUpView",
+    "46FB3AB8F8ECEC2FE3052E1BB95CA59D9E5F2148" : "LinkedinSwift\/",
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "Evol.Me\/Alamofire\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "InYou",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "InYou.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tonyli508\/LinkedinSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "46FB3AB8F8ECEC2FE3052E1BB95CA59D9E5F2148"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/devos50\/MVPopupView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "47FD68886872390348F8E4477506FDAC12E9D6C4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Alamofire\/Alamofire.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mattdonnelly\/Swifter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "72E8AEF8201D0465EAD5BE5475E77330EA7EC0CD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/psy2k\/NMPopUpView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D76924D87AEF0A1767BE3ACA609636C6A2528556"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thii\/SwiftColors.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FA5854065B02C7C5F8100CBA9A27DE40AC0556B3"
+    }
+  ]
+}
