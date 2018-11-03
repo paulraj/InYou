@@ -17,7 +17,6 @@ pod 'AFNetworking', '~> 2.5'
 use_frameworks!
 pod 'performSelector-swift'
 pod 'UIColor+FlatColors'
-pod 'Cartography'
 pod 'ReactiveUI'
 pod 'PureLayout', '~> 3.0'
 
